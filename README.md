@@ -85,7 +85,7 @@ python manage.py migrate
 The project includes a custom Django management command for importing project data from a tab-separated text file.
 
 #### a. Verify the projects.txt file:
-Ensure the `projects.txt` file is in the root directory of the project. This file should contain tab-separated project data with headers for Project ID, Project Title, PAAS Code, etc.
+Ensure the `projects.txt` file is in the root directory of the project.
 
 #### b. Run the import command:
 ```bash
