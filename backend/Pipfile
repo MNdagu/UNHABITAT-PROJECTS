@@ -10,6 +10,7 @@ django-cors-headers = "==4.7.0"
 asgiref = "==3.8.1"
 sqlparse = "==0.5.3"
 typing-extensions = "==4.13.2"
+gunicorn = "*"
 
 [dev-packages]
 
