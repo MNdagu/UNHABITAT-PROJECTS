@@ -107,9 +107,6 @@ The backend server will be running at http://localhost:8000/
 ### 6. Frontend Setup
 
 #### a. Navigate to the frontend directory:
-```bash
-
-```
 
 #### b. Install Node.js dependencies:
 ```bash
